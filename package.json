@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ycai2/cai-promise#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "eslint": "^5.15.3",
     "eslint-config-google": "^0.12.0"
   }
