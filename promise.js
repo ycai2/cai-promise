@@ -39,4 +39,4 @@ class CaiPromise {
   }
 }
 
-module.export = CaiPromise;
+module.exports = CaiPromise;
