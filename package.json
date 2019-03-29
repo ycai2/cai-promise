@@ -1,0 +1,23 @@
+{
+  "name": "cai-promise",
+  "version": "0.0.1",
+  "description": "My implementation of promise, promise.all, promise.race, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycai2/cai-promise.git"
+  },
+  "author": "Yisheng Cai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ycai2/cai-promise/issues"
+  },
+  "homepage": "https://github.com/ycai2/cai-promise#readme",
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-google": "^0.12.0"
+  }
+}
